@@ -1,0 +1,17 @@
+{
+  "vad": true,
+  "diarise": true,
+  "mode": "cut",
+  "fade_ms": 10,
+  "join_gap_ms": 0,
+  "min_keep_ms": 100,
+  "vad_threshold": 0.5,
+  "min_speech_ms": 250,
+  "min_silence_ms": 300,
+  "speech_pad_ms": 100,
+  "diariser": "pyannote",
+  "num_speakers": 2,
+  "keep_overlap": false,
+  "child_rule": "auto",
+  "pitch_margin": 0.15
+}
