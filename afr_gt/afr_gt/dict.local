@@ -1,0 +1,9 @@
+# Extra or corrected pronunciations. These override the built-in rules.
+# Format: word <TAB or spaces> phones, with syllables separated by " . "
+# Phones must be from the dutch_cv set:
+#   a aː b c d eː f h i iː j k l m n oː p r s t u uː v w x y yː z øː ŋ œ ɑ ɔ ɛ ɣ ɥ ɪ ʃ ʋ ʏ   (+ spn = noise)
+# Look up a word first:  python afr_g2p.py babaloon
+#
+# examples (uncomment / edit):
+# babaloon    b ɑ . b ɑ . l u n
+# ball        b ɑ l
